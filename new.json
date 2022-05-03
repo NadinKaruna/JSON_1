@@ -1,0 +1,9 @@
+{	"surname":"Karuna",
+	"name":"Nadia",
+	"patronymic":"Victorovna",
+	"age":34,
+	"pats": {" parrot":"Kesha",
+		"hamster":"Bunch"}
+	"salary":100
+
+}

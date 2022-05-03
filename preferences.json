@@ -1,0 +1,20 @@
+
+
+
+
+
+
+
+
+{       "preferences": {
+        "film":"matrix",
+        "series":"the magnificent century",
+        "food":{
+        "breakfast":"omelette",
+        "lunch":["borsch","mashed","potatoes"],
+        "dinner":"salad"},
+        "favorite season":"autumn"
+        "travel":"Tibet"
+}
+}
+

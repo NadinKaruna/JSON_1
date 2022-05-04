@@ -1,5 +1,16 @@
-{
-	"quality":["attentiveness","perseverance",learnability"]
+{ "skill":[
+"Что такое тестирование" ,
+"Git (система контроля версий)",
+ "JavaScript",
+"Postman",
+"Основы SQL",
+" JSON", 
+"XML",
+"Jmeter",
+"Тестирование API",
+"Мобильное тестирование",
+"Dev Tools веб браузеров",
+"Структура запросов и ответов на сервер"] 
 
 
 }
